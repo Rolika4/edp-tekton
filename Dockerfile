@@ -7,3 +7,4 @@ COPY ./dist/edpinterceptor .
 USER 65532:65532
 
 ENTRYPOINT ["/edpinterceptor"]
+
